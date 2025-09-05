@@ -1,0 +1,41 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Rider IDE settings
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration and secrets
+appsettings.Development.json
+.env
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test results
+TestResults/
+*.trx
+
+# Publish output
+publish/
+wwwroot/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
