@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3wQnn+RItA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belto\\RiderProjects\\Airsidelog\\AirsideLog\\AirsideLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\belto\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
