@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirsideLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+906c5ac1030b2f60ed0c7e83320278f6b620903e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f072369d6dba1bd0d1bdb5fedb725c45ae641bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirsideLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirsideLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
